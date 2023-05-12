@@ -1,5 +1,14 @@
 
+ # To run use before
+
  export NODE_OPTIONS=--openssl-legacy-provider
+
+# To push on git
+
+ git remote set-url origin https://<token>@github.com/apedrina/arconebackend.git/
+
+ git remote set-url origin https://<token>@github.com/apedrina/arconefront.git/
+ 
 # Angular 11 JWT Authentication example
 
 ## Flow for User Registration and User Login
