@@ -1,3 +1,5 @@
+
+ export NODE_OPTIONS=--openssl-legacy-provider
 # Angular 11 JWT Authentication example
 
 ## Flow for User Registration and User Login
